@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Jennifer.
+- 👀 I’m interested in Machine Learning, AI Safety & Ethical Application. 
+- 🌱 I’m currently learning AI & Ethics, and application to combat Gender Based Violence.
+- 💞️ Please reach out if you would like to collaborate project and discuss ML dection & Predictive Analysis ^^
+- 📫 jennyvwong@outlook.com
